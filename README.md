@@ -1,4 +1,5 @@
-# jorgemello.github.io
+# Jogo Físico: GENIUS FLASHBACK transformado para o Digital e Acessível para a População Idosa
+
 Protótipo do Jogo "Gênio das Cores" Jogo de memória desenvolvido em Flutter + SQLite (offline-first), projetado para idosos: botões grandes, feedback claro, sem pressa e com dificuldade adaptativa.
 
 # Criado em 48h [GLOBAL GAME JAM - Visitar o Site do Projeto] (https://globalgamejam.org/games/2026/genio-das-cores-genius-flashback-jogo-casual-de-memoria-1)
