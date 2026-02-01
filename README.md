@@ -7,7 +7,9 @@ Um jogo de memória acessível para idosos, com sequência de 4 cores e sons sua
 [GÊNIO DAS CORES - Visitar o Site](https://jorgemello.github.io)
 
 ![PROJETO NA GGJ](assets/assets/global_game_jam.jpg)
+## TELA INICIAL DO JOGO
 ![PROJETO TELA INCIAL](assets/assets/genio_das_cores_tela_incial.jpg)
+### TELA DO JOGO
 ![PROJETO TELA INCIAL](assets/assets/genio_das_cores_jogo.jpg)
 
 # APK para instalar em ANDROID está com todas as funcionalidades (BREVE NA PLAYSTORE).
